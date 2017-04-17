@@ -1,0 +1,6 @@
+{
+  "x26xpath":"F:\\encode\\encode\\x264-8bit-x86_64-full.exe",
+  "vspipepath":"F:\\encode\\encode\\vspipe.exe",
+  "vspipe":"--y4m",
+  "x26x":"--demuxer y4m --preset fast --crf 18.7"
+}
